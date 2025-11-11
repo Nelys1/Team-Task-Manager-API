@@ -35,7 +35,7 @@ const swaggerOptions = {
     info: {
       title: 'TaskFlow API',
       version: '1.0.0',
-      description: 'Collaborative Task Management API',
+      description: 'Collaborative Task Management API. A collaborative task management REST API (like a mini Asana/Trello ',
     },
     servers: [
       {
